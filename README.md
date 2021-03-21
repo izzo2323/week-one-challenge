@@ -11,3 +11,6 @@ HTML
 CSS
 
 ## Website 
+https://izzo2323.github.io/week-one-challenge/
+
+### &copy; 2019 Horiseon Social Solution Services, Inc.
